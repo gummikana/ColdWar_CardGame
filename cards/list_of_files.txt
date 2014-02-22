@@ -1,0 +1,7 @@
+count,filename
+2,cards/spy_spy_operation.png
+1,cards/nuke_nuclear_power.png
+1,cards/spy_economic_disaster.png
+2,cards/workers_public_nuke.png
+2,cards/vp_vp_for_nukes
+1,cards/nuke_cuban_missile_crisis.png

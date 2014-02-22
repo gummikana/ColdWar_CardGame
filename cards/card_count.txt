@@ -1,0 +1,15 @@
+count,filename
+2,cards/nuke_suitcase.png
+3,cards/nuke_minuteman.png
+2,cards/nuke_fatman.png
+1,cards/nuke_doomsday_device.png
+2,cards/peace_disarm_nuke.png
+1,cards/peace_united_nations.png
+3,cards/peace_world_peace.png
+3,cards/spy_counter_intelligence.png
+1,cards/spy_spy_operation.png
+3,cards/vp_single_vp.png
+2,cards/vp_victory_monument.png
+1,cards/vp_big_vp.png
+1,cards/vp_fallout_shelter.png
+2,cards/workers_great_engineer.png
