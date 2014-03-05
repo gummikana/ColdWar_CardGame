@@ -39,16 +39,32 @@ Cold War is played in turns. The starting players does their actions first and t
 Taking a turn
 -------------
 
-On your turn, do the following in order:
+At the beginning of your turn draw 2 more cards and take 2 more workers.
 
-1. Draw 2 more cards into your hand. 
+Then you can do any of the following in any order as many times as you want or can. 
 
-2. Place any number of cards _facedown_ from your hand on to the table in front of you.
+1. Start a project
+2. Deploy workers 
+3. Complete a project
 
-3. Take 2 workers and place them on the cards you have face down in front of you.
-
-4. You can flip any number of cards face up by paying the flip up cost on them. 
-
-5. Discard phase. The maximum hand size is 6. You have discard any exceeding cards.
+After this comes the discard phase. If you have more than 6 cards in your hand you have to discard cards from your hand until you have 6 cards in your hand.
 
 Your turn is over and the turn passes to the player on your left.
+
+1. Start a project
+------------------
+
+Take a card from your hand and place it _face down_ in front of you and don't show it to any of the other players. At any time you can only have 5 projects in front of you. 
+
+You may also scrap any of projects you've got in front of you. Take the to be scrapped project, turn it face up and place it in the discard pile. The workers (if any) are returned back to the worker reserve. 
+
+2. Deploy workers
+-----------------
+
+Every turn you get 2 new workers (3 if you have the Nuclear Power completed). You may place these 2 workers on any of the projects you have face down in front of you. In any order. Note that you cannot relocate workers. Once it's been deployed it stays there.
+
+3. Complete a Project
+---------------------
+
+You can complete a project once it's got enough workers to pay for it's flipping up cost. After that resolve the effects on the cards.
+
