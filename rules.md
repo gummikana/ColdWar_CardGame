@@ -61,10 +61,35 @@ You may also scrap any of projects you've got in front of you. Take the to be sc
 2. Deploy workers
 -----------------
 
-Every turn you get 2 new workers (3 if you have the Nuclear Power completed). You may place these 2 workers on any of the projects you have face down in front of you. In any order. Note that you cannot relocate workers. Once it's been deployed it stays there.
+Every turn you get 2 new workers (3 if you have the Nuclear Power completed). You may place these 2 workers on any of the projects you have face down in front of you. In any order. You can place as many workers on a _face down_ card as you want (even exceeding the Max Workers value).
+
+Note that you cannot relocate workers. Once it's been deployed it stays there. Also you cannot 'store' workers, if you have no use for your workers that turn then you simply get less workers that turn. 
 
 3. Complete a Project
 ---------------------
 
 You can complete a project once it's got enough workers to pay for it's flipping up cost. After that resolve the effects on the cards.
 
+Card Types
+==========
+
+There 5 types of cards in Cold War.
+
+World Peace
+-----------
+
+World Peace cards can be used to increase the World Peace Counter. Every worker past the Flip Over cost up to Max Number of Workers increases the World Peace counter by one. 
+
+Example: Ari's got a United Nations (1/5) face down on his board. He's got 5 workers on it and he flips it up and pays the Flip Over cost (1) by removing one of the workers. Then he resolves the card, he's got 4 workers left on the card and thus increase the World Peace counter by 4. He then discards the workers and card from the board.
+
+Victory Points
+--------------
+
+Victory Points cards can be used to gain victory points. For every worker past the Flip Over cost up to Max Number of Workers can be used to gain a Victory Point. Draw that many Victory Point cards (the mini cards) and add them to your Victory Points. Don't show them to your opponent.
+
+Example: It's Mikko's turn and he plays the Victory Monument (1/3) card from his hand face down on the table. He places the 2 new workers on it and flips it face up paying the Flip Over cost (1). 1 worker remains on the card and Mikko gain's a Victory Point for it. He takes the top card of the Victory Point deck and places it among his victory points face down. He discards the worker and the Victory Monument card.
+
+Nuclear Weapons
+---------------
+
+Nuclear Weapons cards are used to 
