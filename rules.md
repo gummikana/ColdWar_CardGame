@@ -16,17 +16,22 @@ Components
 * 32 cards for USA
 * 32 cards for USSR
 * 22 x 1, 11 * 2, 4 * 3
-* 37 victory point cards (mini deck)
+* 37 Victory Points (mini cards)
 * 50 wooden workers  
 * Something for world peace
 
+* Board
+* Project 
+* Victory Points
+* Score = Total of Victory Points
+* Worker Pool
 
 Setup
 =====
 
 Take the victory point deck and shuffle it. Deal 5 victory point cards to each player face down. 
 
-Take all the workers (wooden discs) and place them in a convenient place in reach of both players. 
+Take all the workers (wooden discs) and place them in a convenient place in reach of both players. This is the Worker Pool.
 
 Both players take their own decks and shuffle them. Each players deals themselves 2 cards. These are the starting hands. 
 
@@ -47,7 +52,7 @@ Then you can do any of the following in any order as many times as you want or c
 2. Deploy workers 
 3. Complete a project
 
-After this comes the discard phase. If you have more than 6 cards in your hand you have to discard cards from your hand until you have 6 cards in your hand.
+After this comes the discard phase. If you have more than 6 cards in your hand you have to discard cards from your hand until you have 6 cards.
 
 Your turn is over and the turn passes to the player on your left.
 
@@ -75,21 +80,38 @@ Card Types
 
 There 5 types of cards in Cold War.
 
-World Peace
------------
+Peace
+-----
 
-World Peace cards can be used to increase the World Peace Counter. Every worker past the Flip Over cost up to Max Number of Workers increases the World Peace counter by one. 
+The Peace cards can be used to increase the World Peace Counter. This is done by turning the card face up and paying the Flip Over cost by removing that number of workers from the card. The World Peace Counter is increased by the number of workers left on card up to the Max Number of Workers. The card is discarded and all the workers are moved back into the Worker Pool.
 
-Example: Ari's got a United Nations (1/5) face down on his board. He's got 5 workers on it and he flips it up and pays the Flip Over cost (1) by removing one of the workers. Then he resolves the card, he's got 4 workers left on the card and thus increase the World Peace counter by 4. He then discards the workers and card from the board.
+Example: Ari's got a United Nations (1/5) face down on his Board. He's got 5 workers on it and he flips it up and pays the Flip Over cost (1) by removing one of the workers. Then he resolves the card, he's got 4 workers left on the card and thus increase the World Peace Counter by 4. He then discards the workers and card from the board.
 
-Victory Points
---------------
+Victory
+-------
 
-Victory Points cards can be used to gain victory points. For every worker past the Flip Over cost up to Max Number of Workers can be used to gain a Victory Point. Draw that many Victory Point cards (the mini cards) and add them to your Victory Points. Don't show them to your opponent.
+Victory cards can be used to gain Victory Points. For every worker past the Flip Over cost up to the Max Number of Workers draw a Victory Point (the mini cards) but don't show the value (face of the card) to your opponent. Discard the Victory card and return the workers to the Worker Pool.
 
 Example: It's Mikko's turn and he plays the Victory Monument (1/3) card from his hand face down on the table. He places the 2 new workers on it and flips it face up paying the Flip Over cost (1). 1 worker remains on the card and Mikko gain's a Victory Point for it. He takes the top card of the Victory Point deck and places it among his victory points face down. He discards the worker and the Victory Monument card.
 
 Nuclear Weapons
 ---------------
 
-Nuclear Weapons cards are used to 
+Nuclear Weapons cards are used to gain Nuclear Missiles which can be used to destroy your opponent's cards and Victory Points in the case of Nuclear War (see Nuclear War). This is done by turning the card face up and paying the Flip Over cost by removing that number of workers from the card. The card remains face up and all the rest of the workers up to Max Number of Workers are now Nuclear Missiles. If there are more workers than the Max Number of Workers, these workers are returned to the Worker Pool.
+
+Example: ---
+
+Covert Operation
+----------------
+
+Covert Operation cards are used to perform Intelligence gathering, Counter intelligence and Sabotage. To do this turn the card face up and pay the Flip Over cost. Perform the action on the card and then discard the card. 
+
+Counter Intelligence can be used when your opponent is performing a Spy Operation or Sabotage. Turn the card face up and pay the Flip Over cost and this counters the effect of that card.
+
+Production
+----------
+
+Production cards can be used to speed up the process constructing projects. Turn the card face up and pay the Flip Over cost and perform the action on the card and then discard the card. Except in the case of Nuclear Power (which is in effect until it is discarded or nuked).
+
+
+
