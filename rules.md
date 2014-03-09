@@ -6,7 +6,7 @@ A 2 player card game about about hydrogen bombs, world peace and mutual destruct
 Objective
 =========
 
-Your goal is to have more victory points at the end of the game than your opponent. The game can end in world peace or in the 3rd World War.
+Your goal is to have more Victory Points at the end of the game than your opponent. The game can end in World Peace or in the Nuclear War.
 
 
 Components
@@ -32,12 +32,12 @@ Stuff to explain
 [x] World Peace
 [ ] Specific card effects
 [x] Victory Points
-[ ] 
+[ ] Max number of projects
 
 Setup
 =====
 
-Take the victory point deck and shuffle it. Deal 5 victory point cards to each player face down. 
+Take the victory point deck and shuffle it. Deal 5 victory points to each player face down. 
 
 Take all the workers (wooden discs) and place them in a convenient place in reach of both players. This is the Worker Pool.
 
