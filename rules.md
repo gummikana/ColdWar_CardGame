@@ -28,10 +28,10 @@ Components
 
 Stuff to explain
 ----------------
-[ ] Nuclear War
-[ ] World Peace
+[x] Nuclear War
+[x] World Peace
 [ ] Specific card effects
-[ ] Victory Points
+[x] Victory Points
 [ ] 
 
 Setup
@@ -156,6 +156,22 @@ If you target a face down card, the owner of that card takes the card, turns it 
 
 If you target your opponent's Victory Points, your opponent gets to choose which Victory Point he discards (usually he will want to discard the one with the lowest value).
 
+
+World Peace
+===========
+
+If the World Peace counter reaches 10, the game ends at the end of that player's turn when World Peace Counter reached 10. The game ended in World Peace and now both players add up their Victory Points. 
+
+If the Nuclear War has been declarer the game cannot end in World Peace even if the World Peace counter reaches 10.
+
+End of the game
+===============
+
+After the game has ended in either the World Peace or in the Nuclear War. The game is considered ended. Neither player can add any more cards nor can they play any. Both players take their Victory Points and add up th values. 
+
+At this point the Fallout Shelter is also scored. It is scored like a normal Victory card by turning face up by paying the Flip Over cost and the rest of the workers up to Max Number of Workers are converted into Victory Points. The players draw that many Victory Points and add those to their final score.
+
+The player with the highest total wins the game. In case of a tie, the player with more workers left on the board wins the game.
 
 
 
