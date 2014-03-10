@@ -1,12 +1,12 @@
 Cold War the Card Game
 ======================
 
-A 2 player card game about about hydrogen bombs, world peace and mutual destruction.
+A two player card game about about atomic bombs, world peace and mutually assured destruction.
 
 Objective
 =========
 
-Your goal is to have more Victory Points at the end of the game than your opponent. The game can end in World Peace or in the Nuclear War.
+Your goal is to have more Victory Points at the end of the game than your opponent. The game can end in World Peace or Nuclear War.
 
 
 Components
@@ -28,11 +28,13 @@ Components
 
 Stuff to explain
 ----------------
+define starting player
 [x] Nuclear War
 [x] World Peace
 [ ] Specific card effects
 [x] Victory Points
 [ ] Max number of projects
+[ ] Can you place workers on face up projects
 
 Setup
 =====
@@ -41,12 +43,12 @@ Take the victory point deck and shuffle it. Deal 5 victory points to each player
 
 Take all the workers (wooden discs) and place them in a convenient place in reach of both players. This is the Worker Pool.
 
-Both players take their own decks and shuffle them. Each players deals themselves 2 cards. These are the starting hands. 
+Both players take their own decks and shuffle them. Each players draws 2 cards from their decks. These are the starting hands. 
 
 How to play
 ===========
  
-Cold War is played in turns. The starting players does their actions first and then it's the other player. 
+Cold War is played in turns. The starting player is the player who...
 
 
 Taking a turn
@@ -64,28 +66,29 @@ Then you can do any of the following in any order as many times as you want or c
 2. Deploy workers 
 3. Complete a project
 
-After this comes the discard phase. If you have more than 6 cards in your hand you have to discard cards from your hand until you have 6 cards.
+After this comes the discard phase. If you have more than 6 cards in your hand you must discard cards from your hand until you have 6 cards.
 
-Your turn is over and the turn passes to the player on your left.
+Your turn is over and the other player begins their turn.
 
 1. Start a project
 ------------------
 
-Take a card from your hand and place it _face down_ in front of you and don't show it to any of the other players. At any time you can only have 5 projects in front of you. 
+Take a card from your hand and place it _face down_ on the board front of you, without showing it to your opponent. You can only have 5 projects on your board at any time.
 
-You may also scrap any of projects you've got in front of you. Take the to be scrapped project, turn it face up and place it in the discard pile. The workers (if any) are returned back to the worker reserve. 
+During your turn you may scrap any of projects you have on your board. To scrap a project, turn it face up and place it in the discard pile. If there are workers on it they are returned to the worker pool. 
 
 2. Deploy workers
 -----------------
 
-Every turn you get 2 new workers (3 if you have the Nuclear Power completed). You may place these 2 workers on any of the projects you have face down in front of you. In any order. You can place as many workers on a _face down_ card as you want (even exceeding the Max Workers value).
+Every turn you get 2 new workers (or 3 if you have Nuclear Power completed on your board). You may place these workers on any of the projects you have face down in front of you, in any order. You can place as many workers on a _face down_ card as you want (even exceeding the Worker Limit). Workers can only be assigned to Projects that have not yet been completed.
 
-Note that you cannot relocate workers. Once it's been deployed it stays there. Also you cannot 'store' workers, if you have no use for your workers that turn then you simply get less workers that turn. 
+Note that you cannot relocate workers. Once a worker has been assigned to a project it stays there. Also, you cannot keep unused workers. If you have no use for new workers on your turn, you must return them to the Worker Pool. 
 
 3. Complete a Project
 ---------------------
 
-You can complete a project once it's got enough workers to pay for it's flipping up cost. After that resolve the effects on the cards.
+You can complete a Project once it has enough workers to pay for its Completion cost. To do this, turn the card face up and pay the Completion cost by removing that number of workers from the card. After that, resolve the effects on the cards.
+
 
 Card Types
 ==========
@@ -95,81 +98,81 @@ There 5 types of cards in Cold War.
 Peace
 -----
 
-The Peace cards can be used to increase the World Peace Counter. This is done by turning the card face up and paying the Flip Over cost by removing that number of workers from the card. The World Peace Counter is increased by the number of workers left on card up to the Max Number of Workers. The card is discarded and all the workers are moved back into the Worker Pool.
+The Peace cards can be used to increase the World Peace Counter. This is done by turning the card face up and paying the Completion cost. The World Peace Counter is increased by the number of workers left on card up to the Worker Limit. The card is discarded and all the workers are moved back into the Worker Pool.
 
-Example: Ari's got a United Nations (1/5) face down on his Board. He's got 5 workers on it and he flips it up and pays the Flip Over cost (1) by removing one of the workers. Then he resolves the card, he's got 4 workers left on the card and thus increase the World Peace Counter by 4. He then discards the workers and card from the board.
+Example: Ari has a United Nations (1/5) face down on his Board with 5 workers on it. He flips it up and pays the Completion cost (1) by removing one of the workers, leaving 4 workers on the card. Thus the World Peace Counter is increased by 4. He then discards the workers and card from the board.
 
 Victory
 -------
 
-Victory cards can be used to gain Victory Points. For every worker past the Flip Over cost up to the Max Number of Workers draw a Victory Point (the mini cards) but don't show the value (face of the card) to your opponent. Discard the Victory card and return the workers to the Worker Pool.
+Victory cards can be used to gain Victory Points. When complete, turn face up and pay the completion cost. For all the remaining workers up to the Worker Limit draw a Victory Point (the mini cards) but don't show the value (face of the card) to your opponent. Discard the Victory card and return the workers to the Worker Pool.
 
-Example: It's Mikko's turn and he plays the Victory Monument (1/3) card from his hand face down on the table. He places the 2 new workers on it and flips it face up paying the Flip Over cost (1). 1 worker remains on the card and Mikko gain's a Victory Point for it. He takes the top card of the Victory Point deck and places it among his victory points face down. He discards the worker and the Victory Monument card.
+Example: On Mikko's turn he plays the Victory Monument (1/3) card from his hand face down on the table. He places his 2 new workers on it, flips it face up, and pays the Completion cost (1) by removing one of the workers. Mikko gains a Victory Point for the remaining worker. He takes the top card of the Victory Point deck and places it among his victory points face down. He discards the worker and the Victory Monument card.
 
 Nuclear Weapons
 ---------------
 
-Nuclear Weapons cards are used to gain Nuclear Missiles which can be used to destroy your opponent's cards and Victory Points in the case of Nuclear War (see Nuclear War). This is done by turning the card face up and paying the Flip Over cost by removing that number of workers from the card. The card remains face up and all the rest of the workers up to Max Number of Workers are now Nuclear Missiles. If there are more workers than the Max Number of Workers, these workers are returned to the Worker Pool.
+Nuclear Weapons cards are used to acquire Nuclear Missiles which can be used to destroy your opponent's cards and Victory Points in the case of Nuclear War (see Nuclear War). This is done by turning the card face up and paying the Completion cost. The card remains face up and all the rest of the workers up to the Worker Limit are now Nuclear Missiles. If there are more workers than the Max Number of Workers, the extra workers are returned to the Worker Pool.
 
 Example: ---
 
 Covert Operation
 ----------------
 
-Covert Operation cards are used to perform Intelligence gathering, Counter intelligence and Sabotage. To do this turn the card face up and pay the Flip Over cost. Perform the action on the card and then discard the card. 
+Covert Operation cards are used to perform Intelligence gathering, Counter Intelligence and Sabotage. To do this turn the card face up and pay the Completion cost. Perform the action on the card and then discard the card. 
 
-Counter Intelligence can be used when your opponent is performing a Spy Operation or Sabotage. Turn the card face up and pay the Flip Over cost and this counters the effect of that card.
+Counter Intelligence can be used when your opponent is performing a Spy Operation or Sabotage. Turn the card face up and pay the Completion cost to counter the effect of that card.
 
 Production
 ----------
 
-Production cards can be used to speed up the process constructing projects. Turn the card face up and pay the Flip Over cost and perform the action on the card and then discard the card. Except in the case of Nuclear Power (which is in effect until it is discarded or nuked).
+Production cards can be used to speed up the process of constructing projects. Turn the card face up, pay the Completion cost, and perform the action on the card. Discard the card afterwards (except in the case of Nuclear Power, which is in effect until it is discarded or nuked).
 
 
 Nuclear War
 ===========
 
-After Nuclear War has been started there is no turning back. It's fought until the very last Nuclear Missile has been fired. After this both players count their Victory Points and the player with the highest score wins.
+If Nuclear War has been started there is no turning back. It is fought until the very last Nuclear Missile has been fired. After this both players count their Victory Points and the player with the highest score wins.
 
-Nuclear War may be declared at the beginning of the players turn. The player who declares Nuclear War says out loud that they're starting the Nuclear War. From now on none of the players (including the player who declared Nuclear War) can place any new Workers on the cards nor do they draw more cards nor can they place new cards on the board.
+Nuclear War may be declared at the beginning of a turn. The player who declares Nuclear War says out loud that they're starting the Nuclear War. From now on none of the players (including the player who declared Nuclear War) can place any new Workers on the cards nor do they draw more cards or place new cards on the board.
 
-- First player gets to flip 1 card over and deploy a nuke. Also player who declares Nuclear War has to deploy 1 nuke. You can't start a Nuclear War if you don't have any Nuclear Missiles.
+On the first turn of Nuclear War, the player who declared war can complete one project and _must_ deploy a nuke. You can't start a Nuclear War if you don't have any Nuclear Missiles.
 
-
-On their turns the players can only do _one_ of the following: 
-1. Complete a Project
-Or 
-2. Deploy a Nuclear Missile
+On subsequent turns a player can do only _one_ of the following:
+A. Complete one Project
+or
+B. Deploy one Nuclear Missile
 
 
 1. Complete a Project
 ---------------------
 
-You can complete a project once it's got enough workers to pay for it's flipping up cost. After that resolve the effects on the cards. See section blah blah  blah.
+You can complete a project once it has enough workers to pay its Completion cost. After that resolve the effects on the cards. See the Complete a Project section.
 
 2. Deploy a Nuclear Missile
 ---------------------------
 
-Take a Nuclear Missile (a worker on face up Nuclear Weapon card) and use it to either destroy a one of your opponent's face down cards or destroy one of your opponent's Victory Points. 
+Take a Nuclear Missile (a worker on a face up Nuclear Weapon card) and use it to either destroy one of your opponent's face down cards or destroy one of your opponent's Victory Points. 
 
-If you target a face down card, the owner of that card takes the card, turns it face up and discards it and it's workers. If the card can't be destroyed with a Nuke (e.g. Fallout Shelter) the cards is shown to all players and that Nuclear Missile was wasted.
+If you target a face down card, the owner of that card takes the card, turns it face up and discards it and its workers. If the card can't be destroyed with a Nuke (e.g. Fallout Shelter) the cards is turned face up and that Nuclear Missile has no effect.
 
-If you target your opponent's Victory Points, your opponent gets to choose which Victory Point he discards (usually he will want to discard the one with the lowest value).
+If you target your opponent's Victory Points, your opponent chooses which Victory Point is discarded (usually the one with the lowest value).
 
 
 World Peace
 ===========
 
-If the World Peace counter reaches 10, the game ends at the end of that player's turn when World Peace Counter reached 10. The game ended in World Peace and now both players add up their Victory Points. 
+If the World Peace counter reaches 10, the game ends in World Peace at the end of the current turn. Both players then count their Victory Points and the player with the highest score wins the game.
 
-If the Nuclear War has been declarer the game cannot end in World Peace even if the World Peace counter reaches 10.
+If Nuclear War has been declared, the game cannot end in World Peace even if the World Peace counter reaches 10.
+
 
 End of the game
 ===============
 
-After the game has ended in either the World Peace or in the Nuclear War. The game is considered ended. Neither player can add any more cards nor can they play any. Both players take their Victory Points and add up th values. 
+After the game has ended in either World Peace or Nuclear War, the game is over. Player count their Victory Points and the player with the highest score wins the game.
 
-At this point the Fallout Shelter is also scored. It is scored like a normal Victory card by turning face up by paying the Flip Over cost and the rest of the workers up to Max Number of Workers are converted into Victory Points. The players draw that many Victory Points and add those to their final score.
+At this point the Fallout Shelter is also scored. It is scored like a normal Victory card by turning face up by paying the Flip Over cost and the rest of the workers up to the Worker Limit are converted into Victory Points. The player draws that many Victory Points and adds those to their final score.
 
 The player with the highest total wins the game. In case of a tie, the player with more workers left on the board wins the game.
 
