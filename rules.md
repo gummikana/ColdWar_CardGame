@@ -48,7 +48,7 @@ Both players take their own decks and shuffle them. Each players draws 2 cards f
 How to play
 ===========
  
-Cold War is played in turns. The starting player is the player who...
+Cold War is played in turns. Choose the starting player at random.
 
 
 Taking a turn
