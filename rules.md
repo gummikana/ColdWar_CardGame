@@ -1,7 +1,7 @@
 Cold War the Card Game
 ======================
 
-A two player card game about about atomic bombs, world peace and mutually assured destruction.
+A two player card game about atomic bombs, world peace and mutually assured destruction.
 
 Objective
 =========
