@@ -107,9 +107,9 @@ Example: ---
 Covert Operation
 ----------------
 
-Covert Operation cards are used to perform Intelligence gathering, Counter Intelligence and Sabotage. To do this turn the card face up and pay the Completion cost. Perform the action on the card and then discard the card. 
+Covert Operation cards are used to perform Intelligence gathering, Counter Intelligence and Economic Disaster. To do this turn the card face up and pay the Completion cost. Perform the action on the card and then discard the card. 
 
-Counter Intelligence can be used when your opponent is performing a Spy Operation or Sabotage. Turn the card face up and pay the Completion cost to counter the effect of that card.
+Counter Intelligence can be used when your opponent is performing a Spy Operation or Economic Disaster. Turn the card face up and pay the Completion cost to counter the effect of that card.
 
 Production
 ----------
