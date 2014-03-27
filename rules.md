@@ -1,5 +1,5 @@
-Cold War the Card Game
-======================
+Cold War, Hot Nukes 
+===================
 
 A two player card game about atomic bombs, world peace and mutually assured destruction.
 
@@ -18,26 +18,14 @@ Components
 * 22 x 1, 11 * 2, 4 * 3
 * 37 Victory Points (mini cards)
 * 50 wooden workers  
-* Something for world peace
+* 1 World Peace/Nuclear War card
+* 1 Peace Counter
 
-* Board
-* Project 
-* Victory Points
-* Score = Total of Victory Points
-* Worker Pool
-
-Stuff to explain
-----------------
-define starting player
-[x] Nuclear War
-[x] World Peace
-[ ] Specific card effects
-[x] Victory Points
-[ ] Max number of projects
-[ ] Can you place workers on face up projects
 
 Setup
 =====
+
+Take the World Peace card and place it in view of both players. Place the Peace Counter on it at 0.
 
 Take the victory point deck and shuffle it. Deal 5 victory points to each player face down. 
 
@@ -48,7 +36,7 @@ Both players take their own decks and shuffle them. Each players draws 2 cards f
 How to play
 ===========
  
-Cold War is played in turns. Choose the starting player at random.
+Cold War, Hot Nukes is played in turns. Choose the starting player at random.
 
 
 Taking a turn
@@ -56,11 +44,11 @@ Taking a turn
 
 At the very beginning of your turn you may choose to start the Nuclear War. See Nuclear War section.
 
-If no Nuclear War was announced continue your turn in the following order:
+If Nuclear War was not declared, continue your turn in the following order:
 
 Draw 2 more cards and take 2 more workers.
 
-Then you can do any of the following in any order as many times as you want or can. 
+Then you can do any of the following in any order as many times as you want or are able to. 
 
 1. Start a project
 2. Deploy workers 
@@ -73,9 +61,9 @@ Your turn is over and the other player begins their turn.
 1. Start a project
 ------------------
 
-Take a card from your hand and place it _face down_ on the board front of you, without showing it to your opponent. You can only have 5 projects on your board at any time.
+Take a card from your hand and place it _face down_ on the board in front of you, without showing it to your opponent. You can only have 5 projects on your board at any time.
 
-During your turn you may scrap any of projects you have on your board. To scrap a project, turn it face up and place it in the discard pile. If there are workers on it they are returned to the worker pool. 
+During your turn you may scrap any of the projects you have on your board. To scrap a project, turn it face up and place it in the discard pile. If there are workers on it they are returned to the worker pool. 
 
 2. Deploy workers
 -----------------
@@ -87,13 +75,13 @@ Note that you cannot relocate workers. Once a worker has been assigned to a proj
 3. Complete a Project
 ---------------------
 
-You can complete a Project once it has enough workers to pay for its Completion cost. To do this, turn the card face up and pay the Completion cost by removing that number of workers from the card. After that, resolve the effects on the cards.
+You can complete a Project once it has enough workers to pay for its Completion cost. To do this, turn the card face up and pay the Completion cost by removing that number of workers from the card. After that, resolve the effects on the card.
 
 
 Card Types
 ==========
 
-There 5 types of cards in Cold War.
+There 5 types of cards in Cold War, Hot Nukes.
 
 Peace
 -----
@@ -112,7 +100,7 @@ Example: On Mikko's turn he plays the Victory Monument (1/3) card from his hand 
 Nuclear Weapons
 ---------------
 
-Nuclear Weapons cards are used to acquire Nuclear Missiles which can be used to destroy your opponent's cards and Victory Points in the case of Nuclear War (see Nuclear War). This is done by turning the card face up and paying the Completion cost. The card remains face up and all the rest of the workers up to the Worker Limit are now Nuclear Missiles. If there are more workers than the Max Number of Workers, the extra workers are returned to the Worker Pool.
+Nuclear Weapons cards are used to acquire Nuclear Missiles which can be used to destroy your opponent's cards and Victory Points in the case of Nuclear War (see Nuclear War). This is done by turning the card face up and paying the Completion cost. The card remains face up and all the rest of the workers up to the Worker Limit are now Nuclear Missiles. If there are more workers than the Worker Limit, the extra workers are returned to the Worker Pool.
 
 Example: ---
 
@@ -134,22 +122,22 @@ Nuclear War
 
 If Nuclear War has been started there is no turning back. It is fought until the very last Nuclear Missile has been fired. After this both players count their Victory Points and the player with the highest score wins.
 
-Nuclear War may be declared at the beginning of a turn. The player who declares Nuclear War says out loud that they're starting the Nuclear War. From now on none of the players (including the player who declared Nuclear War) can place any new Workers on the cards nor do they draw more cards or place new cards on the board.
+Nuclear War may be declared at the beginning of a turn. The player who declares Nuclear War does so by removing the peace counter from the World Peace card and flipping the card over to show the Nuclear War side. From now on, players do not receive new workers every turn, nor do they draw more cards or place cards on the board.
 
 On the first turn of Nuclear War, the player who declared war can complete one project and _must_ deploy a nuke. You can't start a Nuclear War if you don't have any Nuclear Missiles.
 
 On subsequent turns a player can do only _one_ of the following:
-A. Complete one Project
+*A. Complete one Project*
 or
-B. Deploy one Nuclear Missile
+*B. Deploy one Nuclear Missile*
 
 
-1. Complete a Project
+A. Complete a Project
 ---------------------
 
-You can complete a project once it has enough workers to pay its Completion cost. After that resolve the effects on the cards. See the Complete a Project section.
+You can complete a project if it has enough workers to pay its Completion cost. After that resolve the effects on the cards. See the Complete a Project section.
 
-2. Deploy a Nuclear Missile
+B. Deploy a Nuclear Missile
 ---------------------------
 
 Take a Nuclear Missile (a worker on a face up Nuclear Weapon card) and use it to either destroy one of your opponent's face down cards or destroy one of your opponent's Victory Points. 
