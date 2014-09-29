@@ -61,7 +61,7 @@ Your turn is over and the other player begins their turn.
 1. Start a project
 ------------------
 
-Take a card from your hand and place it _face down_ on the board in front of you, without showing it to your opponent. You can only have 5 projects on your board at any time.
+Take a card from your hand and place it _face down_ on the board in front of you, without showing it to your opponent. You can only have 5 projects (face down cards) on your board at any time.
 
 During your turn you may scrap any of the projects you have on your board. To scrap a project, turn it face up and place it in the discard pile. If there are workers on it they are returned to the worker pool. 
 
